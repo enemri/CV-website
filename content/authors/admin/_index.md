@@ -6,7 +6,7 @@ title: Elsa Nemrin Daly
 superuser: true
 
 # Role/position/tagline
-role: Design Researcher and Consultant
+role: Design Consultant and Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
