@@ -27,10 +27,14 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Branding & Communication
+    tag: Brand & Comms
+  - name: Product Design
+    tag: Product
+  - name: Architecture
+    tag: Arch
+  - name: Academic Research
+    tag: Spatial Designs & Society
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

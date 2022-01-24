@@ -1,22 +1,24 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: BUILDING FOR THE FUTURE - Sustainable Ideals in Practice? 
+summary: Research Project on the challenges of building sustainably in Denmark 
 tags:
-- Deep Learning
+- Spatial Designs & Society
+- Arch
+- Academic Research
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "http://www.open-platform.dk/project/building-for-the-future"
 
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+# links:
+  # icon: twitter
+  # icon_pack: fab
+  # name: Follow
+  # url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -30,12 +32,14 @@ url_video: ""
 slides: example
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+Excerpt from the research paper, researched and written in collaboration with Lieke Hevink, Katerina Jostova, Jessica Papini and Dovilé SmagurauskaitéLorem. 
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+'Just a few days before everything in society was brought to a halt due to Covid-19, we stepped into OP’s office for our, unbeknownst to us, last in-person meeting with Jennifer and Niels. Due to lockdown measures, it became impossible for us to meet the architects and their fellow team members in person or to follow a specific design project as we had previously intended. Instead, we draw on OP’s previous projects that best illustrate their approach. This has led to the current formulation of the research theme and to the reevaluation of our methodology. Information about the projects was gathered during interviews with the partners and OP’s members, and was complemented by documentation we gained access to through their website.'
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+'To understand the chosen architecture firm's philosophy and get acquainted with their perception of the Danish architecture field and their ideals of architectural practices, we interviewed the partners, Jennifer Dahm Petersen, Niels Lund Petersen and Skafte Aymo-Boot, as well as five other present and past members of the firm. In total twelve in-depth interviews were carried out. Two of these were unstructured interviews that were conducted during our introductory meetings in their office in Nørrebro. The remaining ten semi-structured interviews were carried out through video calls and phone conversations due to the situation caused by the Covid-19 pandemic.'
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+The research study follows and compares the ideologies presented on an architectures website and their ideals in practice. In this study we concluded that in order to push forward sustainable ideals one must speak about it and attempt to encourage clients to move towards socially and environmental sustainablity, all the while keeping a float in the challenging architectural field and landscape. 
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+'Since sustainability is a recent, albeit growing, topic of concern, OP sees the necessity for challenging the architectural regime. As it stands, companies such as OP who have a resounding drive to implement sustainability in their designs still face an uphill battle to overcome the hegemonic regime. For OP, the most realistic outcome is to continue making compromises that lead to a balance between their philosophy and the antagonistic reality of the regime. The hope, as is exemplified on OP’s website, is that the future of architecture will be saturated with deeper considerations for social and environmental sustainability. The future, just like OP, is open to a myriad of possibilities, outcomes and platforms for change.' 
+
+The full research paper can be read on Open Platform's website, the link is provided above.

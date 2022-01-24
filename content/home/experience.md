@@ -22,28 +22,26 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Researcher
+    company: C/O Lauscher GmbH
+    company_url: 'https://www.c-o.org/'
+    # company_logo: org-gc
+    location: Aachen, Germany
+    date_start: '2022-01-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+    description: Held the role of researcher and consultant for the development and prototyping of furniture that was commissioned by an art investor in Luxembourg. The research was conducted for the materials to be used as well as the end-user research in order to advise the physical designs of the furniture and the place.
+
+      
+    
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Design Consultant
+    company: C/O Lauscher GmbH
+    company_url: 'https://www.c-o.org/'
+    #company_logo: org-x
+    location: Aachen, Germany
+    date_start: '2021-12-01'
+    date_end: '2021-12-23'
+    description: Consulted on the development of the Oecher Lab exhibition.
 
 design:
   columns: '2'

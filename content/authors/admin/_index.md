@@ -14,13 +14,13 @@ organizations:
   url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include user research, material and design research.
 
 # Interests to show in About widget
 interests:
-- Design Ethnography 
-- User Research
-- Qualitative Research
+- Product Development
+- User Experience
+- Branding & Marketing
 
 # Education to show in About widget
 education:
@@ -67,8 +67,8 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Elsa Nemrin Daly is a design consultant and researcher. She advises and works alongside designers and other professionals to advise on the development of the designed products or services. As a design consultant, she acts as the intermediary between the users and the designers, with the aim to inform the development of the most appropriate design of products/services. The research is aimed at detecting and advising on emerging trends and needs within the scope of each project. As well as conducting research she is proficient in project management and the outcome of her research can be presented in many different forms, catering to each individual project and it's needs. 
+ 
+Her research can be utilised in different industries such as the design and culture industries as well as the science or business fields.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
